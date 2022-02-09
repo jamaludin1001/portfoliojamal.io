@@ -1,3 +1,10 @@
 .tampilan {
     font-family: "Lucida Console", "Courier New", monospace;
 }
+.paragraf {
+    text-align: justify;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-indent: 20px;
+    letter-spacing: 2px;
+}
